@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "shivampatanwar",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
+
