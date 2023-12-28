@@ -1,11 +1,12 @@
 @media only screen and (min-width: 450px) and (max-width: 860px){      
 
     .div1{
-        width: 50%;
+        width: auto;
+        /* padding-right: 0px; */
     }
     
     .div2{
-        width: 50%;
+        width: 55%;
     }
 
     .name{

@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site": "shivampatanwar",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -8,3 +9,6 @@
     ]
   }
 }
+
+
+

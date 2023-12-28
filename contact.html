@@ -7,34 +7,58 @@
     <link rel="stylesheet" href="desktop.css">
     <link rel="stylesheet" href="mobile.css">
     <link rel="stylesheet" href="tablet.css">
-    <link rel="stylesheet" href="laptop.css">
+    <link rel="stylesheet" href="landscape.css">
     <title>Contact</title>
 </head>
 <body>
     <header>
         <nav>
             <ul>
-               <div class="div1">
-                    <h1 class="name">SHIVAM PATANWAR</h1>
-               </div>
-               
-               <div class="div2">
+
+               <div class="div1" style="color: black;">
+                    <p class="name">SHIVAM PATANWAR</p>
+                </div>
+
+               <div class="div2 d2" id="dv2">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="portfolio.html">Portfolio</a></li>
                     <li><a href="project.html">Project</a></li>
                     <li><a href="courses.html">Courses</a></li>
                     <li><a href="contact.html">Contact</a></li>
                </div>
-               
             </ul>
+
+            <div class="container">
+                <input type="text" placeholder="  Search...">
+                <div class="search"></div>
+            </div>
+
+            <span id="btt" class="bt" onclick="func()"><img class="grid" src="gd.svg" alt="img"></span>
+
+            <div class="th">
+                <input type="checkbox" class="checkbox" id="checkbox">
+                <label for="checkbox" class="checkbox-label"><i class="fas fa-moon"></i><i class="fas fa-sun"></i><span class="ball"></span></label>
+                
+                
+            </div>
+
         </nav>
+        
     </header>
+    <main>
+        
+        <center><h1>Contact</h1></center>
+        <br>
+        <br>
 
-
+        <p class="p">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere est a magni rerum quo? Quia tempora vitae doloremque, perspiciatis quibusdam magni repudiandae deserunt voluptatem sapiente accusantium in architecto quod, quos hic dolores facere! Voluptatibus ab quo, cum, pariatur tempora vero facilis perspiciatis magni, vitae animi repudiandae esse soluta est! Quidem mollitia eligendi, deserunt maiores asperiores consequuntur voluptatum odio! Repellendus corrupti sed veniam repudiandae illo dolorum quibusdam quis ex? Voluptatibus distinctio fuga nisi odio, reiciendis ullam exercitationem quo temporibus ratione consectetur quam sit quis ut, voluptates, ab debitis illum ex aut. Molestiae et totam asperiores illum enim suscipit qui accusamus. Placeat, fugiat. Aspernatur molestiae, consequuntur est fugit quos sunt dolore provident deleniti saepe facere? Eligendi dignissimos obcaecati magnam illum, at modi quae quisquam, dolorem, quidem totam quis. Voluptas, fugit? Obcaecati fuga, architecto animi laborum quia, corrupti corporis a in vel dolorem nemo aspernatur?</p>
+    </main>
+    
+    
     <main>
 
 
-        <form class="forms"  method="post" enctype="text/plain">
+        <form class="forms"  method="post" enctype="text/plain" >
             <h1>contact us form</h1>
             <input type="text" class="input" id="name" placeholder="Name" required>
             <input type="email" class="input" id="email" placeholder="Email" required>
@@ -44,6 +68,8 @@
         </form>
 
     </main>
-    
+
+
 </body>
+<script src="scrip.js"></script>
 </html>

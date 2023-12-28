@@ -1,11 +1,12 @@
-@media only screen and (min-width: 850px) and (max-width: 1000px){      
+@media only screen and (min-width: 850px) and (max-width: 1150px){      
 
     .div1{
         width: 30%;
     }
     
     .div2{
-        width: 50%;
+        width: 45%;
+        /* margin-right: 10px; */
     }
 
     .name{
