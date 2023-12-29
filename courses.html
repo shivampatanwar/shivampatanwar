@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="mobile.css">
     <link rel="stylesheet" href="tablet.css">
     <link rel="stylesheet" href="landscape.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
     <title>Courses</title>
 </head>
 <body>
@@ -20,6 +22,7 @@
                 </div>
 
                <div class="div2 d2" id="dv2">
+                    <li><i class="bi bi-brightness-high-fill bt2" id="toggleDark1" style="color: black;"></i></li>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="portfolio.html">Portfolio</a></li>
                     <li><a href="project.html">Project</a></li>
@@ -35,17 +38,36 @@
 
             <span id="btt" class="bt" onclick="func()"><img class="grid" src="gd.svg" alt="img"></span>
 
-            <div class="th">
-                <input type="checkbox" class="checkbox" id="checkbox">
-                <label for="checkbox" class="checkbox-label"><i class="fas fa-moon"></i><i class="fas fa-sun"></i><span class="ball"></span></label>
+            <i class="bi bi-brightness-high-fill bt1" id="toggleDark" style="color: black;"></i>
+
+            <center>
+                <div class="div3 d3" id="dv3" >
+
+                    <div class="div31">
+                        <a href="index.html"><div class="div311"><img class="imgo" src="home.svg" alt=""><h4>Home</h4></div></a>
+                        <a href="portfolio.html"><div class="div311"><img class="imgo im" src="favicon.jpg" alt=""><h4>Portfolio</h4></div></a>
+                        <a href="project.html"><div class="div311"><img class="imgo" src="project.svg" alt=""><h4>Project</h4></div></a>
+                    </div>
+
+                    <div class="div31">
+                        <a href="courses.html"><div class="div311"><img class="imgo" src="course.svg" alt=""><h4>Courses</h4></div></a>
+                        <a href="contact.html"><div class="div311"><img class="imgo" src="contact.svg" alt=""><h4>Contact</h4></div></a> 
+                        <a href="https://www.youtube.com/@shivampatanwardeveloper"><div class="div311"><img class="imgo" src="youtube.svg" alt=""><h4>Youtube</h4></div></a> 
+                    </div>
+
+                    <div class="div31">
+                        <a href="https://www.facebook.com/shivampatanwardeveloper"><div class="div311"><img class="imgo" src="facebook.svg" alt=""><h4>Facebook</h4></div></a>
+                        <a href="https://www.instagram.com/shivampatanwardeveloper/"><div class="div311"><img class="imgo" src="instagram.svg" alt=""><h4>Instagram</h4></div></a> 
+                        <a href="https://twitter.com/shivampatanwar"><div class="div311"><img class="imgo" src="twitter-x.svg" alt=""><h4>Twitter x</h4></div></a> 
+                    </div>
                 
-                
-            </div>
+               </div>
+            </center>
 
         </nav>
         
     </header>
-    <main>
+    <main id="body">
 
         <center><h1>Courses</h1></center>
         <br>

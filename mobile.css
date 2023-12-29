@@ -1,25 +1,57 @@
 @media only screen and (min-width: 0px) and (max-width: 450px){      
     
-    .div1{
-        width: auto;
-        padding: 6px;
-        display: flex;
-        justify-content: space-between;
-        /* background-color: white; */
-        
-    }
+  nav{
+    border-bottom: solid black;
+    border-width: 0;
     
-    .div2{
-       width: 100%;
-       height: 25px;
-       display: flex;
-       justify-content: space-evenly;
-       background-color: rgb(235, 179, 25);
-       border-top: solid black ;
-       border-width: thin;
-       position: relative;
+}
+
+  
+  .div1{
+    width: auto;
+    padding: 6px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid black ;
+    border-top: solid black ;
+    border-width: thin;
+    /* background-color: white; */
+
+
+      
+  }
+    
+    .div3{
+      width: 95vw;
+      height: 85vw;
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      top: 10px;
+      /* padding-top: 10px; */
+      justify-content: space-evenly;
+      /* background-color: rgb(241, 199, 199); */
+      background: rgb(235, 232, 232);
+      border: solid black ;
+      border-width: 0;
+      border-radius: 30px;
+      position: relative;
   
     }
+
+    .div31{
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 10px;
+
+
+    }
+    
+    .div311{
+      width: 90px;
+      height: 50px;
+    }
+    
 
     .d2{display: none;}
 
@@ -41,11 +73,35 @@
     li{ margin: 2px; padding: 0; list-style: none;}
 
     .bt{display: block;}
+    .bt2{display: none;}
+
+    .bt1{
+      display: block; 
+      font-size: 25px;
+      cursor: pointer;
+      position: absolute;
+      top: 22px;
+      right: 92px;
+      transform: translate(-50%, -50%);
+    }
 
     .th{display: block;}
 
     .grid{position: absolute; top: 21px; right: 11px;  width: 30px;  height: 30px; }
     
+
+    .imgo{
+      width: 30px;
+      height: 30px;
+      margin-bottom: 5px; 
+    }
+
+    .im{
+      border-radius: 20px;
+    }
+
+
+    @import url('abc.js');
 
 
     @import url('https://fonts.googleapis.com/css?family=Inconsolata:700');
@@ -162,76 +218,6 @@
             font-weight: bolder;
           }
         }
-      }
-
-
-  
-      @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
-
-      * {box-sizing: border-box;}
-      
-      /* body {
-        font-family: "Montserrat", sans-serif;
-        background-color: #fff;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        text-align: center;
-        min-height: 100vh;
-        margin: 0;
-        transition: background 0.2s linear;
-      }
-       */
-
-
-      body.dark{background-color: black; color: white;
-      } /* #9b59b6 */
-      
-      body.dark h1, body.dark .support a {color: white;}
-      
-      .checkbox {
-        opacity: 0;
-        position: absolute;
-      }
-      
-      .checkbox-label {
-        background-color: #111;
-        width: 46px;
-        height: 24px;
-        border-radius: 50px;
-        position: absolute;
-        top: 13px;
-        right: 103px;
-        padding: 5px;
-        cursor: pointer;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-      
-      .fa-moon {color: #f1c40f;}
-      
-      .fa-sun {color: #f39c12;}
-      
-      .checkbox-label .ball {
-        background-color: #fff;
-        width: 19px;
-        height: 20px;
-        position: absolute;
-        left: 2px;
-        top: 2px;
-        border-radius: 50%;
-        transition: transform 0.2s linear;
-      }
-      
-      .checkbox:checked + .checkbox-label .ball {
-        transform: translateX(24px);
-      }
-      
-      
-
-
-
+  }
 
 }

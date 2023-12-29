@@ -48,7 +48,7 @@ a:hover{color: red;}
 
 .name{width: 100%;  margin: 8px auto 5px 15px; font-family:sans-serif; font-size: 26px; font-weight: bold;}
 
-main{ margin: 60px 20px 55px 20px;}
+main{ padding: 70px 20px 55px 20px;}
 
 .container{display: none;}
 
@@ -61,6 +61,23 @@ main{ margin: 60px 20px 55px 20px;}
     position: absolute;
     top: -11px;
     right: 7px;
+}
+.bt1{
+    display: none;
+  
+}
+
+.bt2{
+    font-size: 16px;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+    
+    
+}
+
+.d3{
+    display: none;
+
 }
 
 
