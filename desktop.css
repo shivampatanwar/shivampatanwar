@@ -1,5 +1,10 @@
 /* Index Webpage */
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 
 /* Body  */
 *{ margin: 0px;  padding: 0px; box-sizing: border-box;}
@@ -46,7 +51,7 @@ a{text-decoration: none; color: black; font-weight: bold; font-family: sans-seri
 
 a:hover{color: red;}
 
-.name{width: 100%;  margin: 8px auto 5px 15px; font-family:sans-serif; font-size: 26px; font-weight: bold;}
+.name{width: 100%;  margin: 8px auto 5px 15px; font-family: sans-serif; font-size: 26px; font-weight: bold;}
 
 main{ padding: 70px 20px 55px 20px;}
 
@@ -79,6 +84,8 @@ main{ padding: 70px 20px 55px 20px;}
     display: none;
 
 }
+
+
 
 
 /*  */
@@ -130,11 +137,79 @@ main{ padding: 70px 20px 55px 20px;}
 
 
 
-/* About Webpage */
+/* Courses Webpage */
 
 
 /*  */
 
+.courseh1{
+    margin: 30px 0px 70px 0px;
+}
+
+.coursedivinner{
+    width: 20%;
+    height: 370px;
+    /* background-color: aliceblue; */
+    background-color: rgb(62, 157, 240);
+    margin: 15px;
+    border-radius: 20px;
+    padding: 25px;
+    text-align: justify;  
+    
+    
+
+}
+
+.coursediv{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.courseimg{
+    width: 100px;
+    height: 100px;
+    display: flexbox;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+.f2{
+    width: 20px;
+    height: 20px;
+}
+
+.razorbt{
+    width: 180px;
+    height: 25px; 
+    padding: 3px;
+    border-radius: 5px;
+    /* background-color: rgb(10, 12, 167); */
+    background-color: rgb(252, 157, 15);
+    align-content: center;
+    margin-top: 20px;
+   
+   
+    
+}
+
+
+.razorbt a{
+    
+   font-weight: bold;
+}
+
+
+.hide2{
+    display: none;
+}
+
+.hide3{
+    display: none;
+}
+
+
+
 /*  */
 
 
@@ -145,3 +220,111 @@ main{ padding: 70px 20px 55px 20px;}
 
 
 /*  */
+
+
+
+
+/* Contact Webpage */
+
+
+/*  */
+
+.csection{
+    display: flex;
+    justify-content:space-around;
+    padding-top: 70px;
+}
+.divc1{
+    width: 40%;
+    padding-left: 120px;
+   
+}
+.divc2{
+    /* background-color: rgb(238, 240, 243); */
+    background-color: rgb(116, 164, 236);
+    padding: 20px 20px 20px 20px;
+    border-radius: 30px;
+    height: 430px;
+  
+}
+
+.ip{
+    width: 280px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.ip1{
+    width: 280px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.ip2{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+/*  */
+
+input, textarea{
+    padding: 5px;
+    color: black;
+    display: block;
+}
+/*  */
+
+
+/*  */
+
+
+
+
+
+/* Footer */
+
+.footimg{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 3px;
+    background-color: white;
+    background-size: 50px;
+    
+}
+
+
+.footh1{
+    font-size: 20px;
+    margin-bottom: 10px;
+   
+}
+
+
+footer{
+    /* background-color: rgb(36, 32, 32); */
+    background-color: rgb(14, 12, 12);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 20px;
+    color: rgb(199, 193, 193);
+    /* color: rgb(167, 162, 162); */
+
+}
+
+footer a{
+    margin-top: 2px;
+    font-size: 12px;
+    padding-left: 5px;
+    color: rgb(167, 162, 162);
+}
+
+
+/*  */
+.cp{
+    line-height: 20px;
+    font-size: 18px;
+
+}

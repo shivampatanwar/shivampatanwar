@@ -1,10 +1,10 @@
-@media only screen and (min-width: 0px) and (max-width: 450px){      
+@media only screen and (min-width: 0px) and (max-width: 780px){      
     
   nav{
     border-bottom: solid black;
     border-width: 0;
     
-}
+  }
 
   
   .div1{
@@ -101,10 +101,10 @@
     }
 
 
-    @import url('abc.js');
+    /* @import url('abc.js'); */
 
 
-    @import url('https://fonts.googleapis.com/css?family=Inconsolata:700');
+    /* @import url('https://fonts.googleapis.com/css?family=Inconsolata:700'); */
     
     .container {
         display: block;
@@ -219,5 +219,175 @@
           }
         }
   }
+
+
+
+
+
+
+
+
+
+
+
+
+/* Contact Webpage */
+
+
+/*  */
+
+.csection{
+  flex-wrap: wrap-reverse;
+  padding-top: 20px;
+}
+.divc1{
+  width: 100vw;
+  padding: 10%;
+ 
+}
+.divc2{
+  /* background-color:  rgba(77, 241, 140, 0.842); */
+  background-color: rgb(62, 157, 240);
+  padding: 10px 10px 100px 10px;
+  border-radius: 35px;
+  width: 95%;
+
+}
+
+.ip2{
+  width: 50px;
+  height: 30px;
+  margin-top: 10px;
+  background-color: rgb(252, 227, 216);
+}
+
+
+
+
+
+
+
+
+/*  */
+
+/* Footer */
+
+.footimg{
+  width: 20px;
+  height: 20px;
+  margin-right: 7px;
+  
+}
+
+
+.footh1{
+  font-size: 20px;
+  margin-top: 20px;
+ 
+}
+
+
+footer{
+  display: inline-block;
+  justify-content: space-around;
+  padding: 30px;
+  /* color: rgb(167, 162, 162); */
+
+}
+
+footer a{
+  margin-top: 5px;
+  font-size: 14px;
+  
+}
+
+
+/*  */
+.cp{
+  line-height: 20px;
+  font-size: 17px;
+
+}
+
+.cp1{
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+/* Courses Webpage */
+
+
+/*  */
+.courseh1{
+  margin: 10px 0px 20px 0px;
+  font-size: 25px;
+}
+
+.coursedivinner{
+  width: 92%;
+  height: 390px;
+  /* background-color: aliceblue; */
+  margin: 20px auto 0px auto;
+  border-radius: 20px;
+  padding: 20px;
+  
+  
+
+}
+
+.coursediv{
+  display: inline-block;
+    
+}
+
+
+
+.razorbt{
+  width: 230px;
+  height: 25px; 
+  padding: 3px;
+  
+}
+
+
+.razorbt a{
+  font-size: 18px;
+  
+}
+
+.hide1{
+  display: inline-block;
+}
+
+.hide2{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }

@@ -1,12 +1,14 @@
-@media only screen and (min-width: 450px) and (max-width: 860px){      
+@media only screen and (min-width: 780px) and (max-width: 1111px){      
 
     .div1{
         width: auto;
+        padding-left: 30px;
         /* padding-right: 0px; */
     }
     
     .div2{
         width: 55%;
+
     }
 
     .name{
@@ -14,6 +16,138 @@
         font-size: 20px;
     }
 
+   
+    
+
+
+    
+
+    /* Courses Webpage */
+
+
+    /*  */
+    .courseh1{
+        margin: 10px 0px 20px 0px;
+        font-size: 25px;
+    }
+    
+    .coursedivinner{
+        width: 32%;
+        height: 420px;
+        /* background-color: aliceblue; */
+        margin: 20px 10px 0px 10px;
+        border-radius: 20px;
+        padding: 25px;
+        
+    }
+
+    .coursediv{
+        justify-content: center;
+        
+    }
+
+   
+
+
+    .hide1{
+        display: none;
+    }
+      
+    .hide2{
+        display: flex;
+        justify-content:center;
+    }
+
+    .hide3{
+        display: flex;
+        justify-content:start;
+    }
+    
+    
+    
+    .razorbt{
+        width: 180px;
+        height: 25px; 
+        padding: 3px;
+        
+    }
+    
+    
+    .razorbt a{
+        font-size: 14px;
+        
+    }
+
+
+
+    
+
+/* Contact Webpage */
+
+
+/*  */
+
+.csection{
+    margin-top: 11px;
+}
+.divc1{
+    padding-left: 30px;
+   
+}
+.divc2{
+    /* background-color: rgb(238, 240, 243); */
+    background-color: rgb(116, 164, 236);
+    padding: 20px 20px 20px 20px;
+    border-radius: 30px;
+    height: 430px;
+  
+}
+
+.ip{
+    width: 280px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.ip1{
+    width: 280px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.ip2{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+/*  */
+
+input, textarea{
+    padding: 5px;
+    color: black;
+    display: block;
+}
+/*  */
+
+
+/*  */
+
+
+
+
+
+/* Footer */
+
+.footimg{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+    border-radius: 3px;
+    background-color: white;
+    background-size: 50px;
+    
+}
 
 
 
