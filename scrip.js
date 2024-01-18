@@ -22,6 +22,7 @@ function func(){
 
 const toggle = document.getElementById('toggleDark');
 const body = document.getElementById('body');
+const ids = document.getElementById('ids');
 
 toggle.addEventListener('click', function(){
     this.classList.toggle('bi-moon');
@@ -30,12 +31,14 @@ toggle.addEventListener('click', function(){
         body.style.background = 'white';
         body.style.color = 'black';
         body.style.transition = '2s';
+        ids.style.border.color = 'black';
     }
 
     else{
         body.style.background = 'black';
         body.style.color = 'white';
         body.style.transition = '2s';
+        ids.style.border.color = 'white';
     }
 })
 
@@ -49,14 +52,19 @@ toggles.addEventListener('click', function(){
         body.style.background = 'white';
         body.style.color = 'black';
         body.style.transition = '2s';
+        ids.style.border.color = 'black';
     }
 
     else{
         body.style.background = 'black';
         body.style.color = 'white';
         body.style.transition = '2s';
+        ids.style.border.color = 'white';
     }
 })
+
+
+
 
 
 

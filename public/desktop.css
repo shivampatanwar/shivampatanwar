@@ -17,6 +17,7 @@ nav{
     border-top: solid black;
     border-bottom: solid black;
     width: 100%;
+    height: 50px;
     border-width: thin;
     margin: 0;
     padding: 0;
@@ -26,7 +27,6 @@ nav{
 
 ul{
     background-color: #fff;
-    /* background-color: sandybrown; */
     padding: 2px;
     display: flex;
     justify-content: space-between;
@@ -53,7 +53,8 @@ a:hover{color: red;}
 
 .name{width: 100%;  margin: 8px auto 5px 15px; font-family: sans-serif; font-size: 26px; font-weight: bold;}
 
-main{ padding: 70px 20px 55px 20px;}
+#body{ padding: 50px 20px 55px 20px;}
+main{ padding: 50px 0px 55px 0px;}
 
 .container{display: none;}
 
@@ -61,17 +62,21 @@ main{ padding: 70px 20px 55px 20px;}
 
 .p{text-align: justify; }
 
+/*  */
 .bt{
     display: none;
     position: absolute;
     top: -11px;
     right: 7px;
 }
+
+/*  */
 .bt1{
     display: none;
   
 }
 
+/*  */
 .bt2{
     font-size: 16px;
     cursor: pointer;
@@ -80,6 +85,7 @@ main{ padding: 70px 20px 55px 20px;}
     
 }
 
+/*  */
 .d3{
     display: none;
 
@@ -88,15 +94,209 @@ main{ padding: 70px 20px 55px 20px;}
 
 
 
+
+
+
+/* index  Web Page */
+
+
+
+
+/*  */
+.homesec{
+    width: 100%;
+}   
+
+.homem{
+    height: 400px;
+}
+
+
+
+/*  */
+.homediv{
+    display: flex;
+    height: 400px;
+    
+}
+
+/*  */
+.homediv1{
+    width: 50%;
+    background-image:url("bg.png");
+    background-size: 100%;
+    
+}
+
+/*  */
+.homediv2{
+    width: 50%;
+    text-align: center;
+    background-color: rgb(235, 171, 75);
+    padding-top: 70px;
+}
+
+
+/*  */
+.homeh1{
+    font-size: 42px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+
+/*  */
+.homea{
+    font-size: 15px;
+    border-radius: 5px;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+    background-color: rgb(18, 128, 148);
+}
+
+
+/*  */
+
+
 /*  */
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Portfolio Web Page */
+
+/*  */
+.portsec{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*  */
+.portdiv{
+    width: 70%;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: justify;
+}
+
+
+
+/*  */
+.porth11{
+    font-size: 26px;
+    margin: 50px 0px 20px 0px;
+
+    color: black; 
+    border: 2px solid black; 
+    /* width: max-content;  */
+    padding: 0.5%; 
+    background-color: rgba(255, 255, 255, 0.938);
+}
+.porth1{
+    font-size: 25px;
+    margin: 100px 0px 20px 0px;
+
+    color: black; 
+    border: 2px solid black; 
+    /* width: max-content;  */
+    padding: 0.5%; 
+    background-color: rgba(255, 255, 255, 0.938);
+}
+
+.porth12{
+    font-size: 19px;
+    margin: 30px 0px 10px 20px;
+    padding-left: 3px;
+    color: black; 
+    border: 2px solid black; 
+    width: 60%;  
+    background-color: rgba(255, 255, 255, 0.938);
+}
+
+.porth123{
+    font-size: 19px;
+    margin: 0px 0px 0px 20px;
+    font-weight: 200;
+   
+}
+.porth3{
+    margin: 40px 0px 10px 0px;
+    font-size: 22px;
+}
+
+.portskil{
+    line-height: 35px;
+}
+
+.portstrength{
+    font-size: 19px;
+    margin: 0px 0px 10px 0px;
+    font-weight: 300;
+
+}
+
+.portp, .portp1{
+    font-family:Cambria;
+    font-size: 18px;
+}
+
+
+
+
+
+
+/* Google Ads */
+
+.adsbygoogle{
+    display:block;
+}
+
+aside{
+    padding: 0px 20px 0px 20px;
+}
+
+ins.adsbygoogle[data-ad-status="unfilled"] {display: none !important;}
+
+
+
+
+
+
 /*  */
 
 
 
+
 /*  */
+
+
+
+
+/*  */
+
 
 
 
@@ -327,4 +527,103 @@ footer a{
     line-height: 20px;
     font-size: 18px;
 
+}
+
+
+
+
+
+
+
+/* Projects Webpage */
+
+/* section */
+
+.projrcth1{
+    font-size: 22px;
+    margin: 40px 0px 10px 0px;
+    color: black; 
+    border: 2px solid black; 
+    width: max-content; 
+    padding: 0.5%; 
+    background-color: rgba(255, 255, 255, 0.938);
+}
+
+.projectsec{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sdiv{
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.938);
+    
+    
+
+}
+
+.reversediv{
+    flex-direction: row-reverse;
+   
+}
+
+
+.sdiv1{
+    width: 60%;
+  
+  }
+  .sdiv2{
+    width: 40%;
+  
+  }
+
+
+
+
+.secp{
+    font-size: 18px;
+    width: 80%;
+    color: black;
+}
+
+/*  */
+.webimg{
+    width: 300px;
+    height: 200px;
+    /* border: 2px solid black; */
+}
+
+.dot, .dot1, .dot2, .dot3{
+    height: 12px;
+    width: 12px;
+    margin-right: 3px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active {
+    background-color: #0c0b0b;
+}
+
+.dotdiv{
+    text-align: center;
+}
+
+.slideshow{
+    width: 350px;
+   
+}
+
+.imgdiv, .imgdiv1, .imgdiv2, .imgdiv3{
+    display: none;
 }
