@@ -7,6 +7,7 @@
     
   }
 
+
   
   .div1{
     width: auto;
@@ -26,7 +27,7 @@
       width: 95vw;
       height: 85vw;
       position: absolute;
-      display: flex;
+      display: none;
       flex-direction: column;
       top: 10px;
       /* padding-top: 10px; */
@@ -88,7 +89,7 @@
 
     .th{display: block;}
 
-    .grid{position: absolute; top: 21px; right: 11px;  width: 30px;  height: 30px; }
+    .grid{position: absolute; top: 19px; right: 11px; font-size: 25px; }
     
 
     .imgo{
@@ -229,60 +230,104 @@
   
 
 
-  /* index  Web Page */
+    /* index  Web Page */
 
 
-  /*  */
-  .homesec{
-    width: 100%;
-  }
+      
 
-  .homem{
-    height: 200px;
-  }
-
-  /*  */
-  .homediv{
-    display: flex;
-    height: 200px;
-    
-  }
-
-  /*  */
-  .homediv1{
-    width: 50%;
-    background-image:url("bg.png");
-    background-size: 100%;
-    
-  }
-
-  /*  */
-  .homediv2{
-    width: 50%;
-    text-align: center;
-    background-color: rgb(235, 171, 75);
-    padding-top: 30px;
-  }
+    /*  */
+    .homesec{
+      width: 100%;
+      height: 80vh;
+      /* background: black; */
+    }   
 
 
-  /*  */
-  .homeh1{
-    font-size: 22px;
-    margin: auto;
-    padding-bottom: 20px;
-  }
 
 
-  /*  */
-  .homea{
-    font-size: 13px;
-    border-radius: 5px;
-    width: 80px;
-    height: 50px;
-    padding: 10px;
-    background-color: rgb(18, 128, 148);
-  }
+    /*  */
+    .homediv{
+      display: block; 
+      margin-left: auto;
+      margin-right: auto;
+    }
 
+
+    .homediv1{
+      width: 200px;
+      height: 200px; 
+      margin: 10% auto 0px auto;
+    }
+
+    .homediv2{
+      width: 100%;
+      padding: 15px;
+    }
+
+    .homediv2h1{
+      font-size: 18px;
+      font-weight: 400;
+      width: 100%;
+      text-align: justify;
+      margin-bottom: 10px;
+      margin-top: 30px;
+    }
+
+  
+
+    /*  */
+    .homeh1{
+      font-size: 33px;
+      margin: auto;
+      padding: 30px 0px;
+    }
+
+
+    /*  */
+    .homea{
+      font-size: 15px;
+      border-radius: 5px;
+      width: 80px;
+      height: 50px;
+      padding: 8px;
+      background-color: rgb(248, 120, 15);
+    }
+
+
+    /*  */
+    .homed1img{
+      width: 250px;
+      height: 250px;
+      border: 10px solid rgb(151, 9, 9);
+      border-radius: 130px;
+    }
+
+
+    /*  */
+    .homeh12{
+      position: absolute;
+      opacity: 0;
+      top: 385px;
+      z-index: 0;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .footimg1{
+      width: 26px;
+      height: 26px;
+      margin-right: 6px;
+      background-color: white;
+      padding: 4px;
+      border-radius: 5px;
+
+    }
+
+    .foota1{
+      margin-top: 30px;
+    }
+
+  
 
 
 
@@ -394,8 +439,8 @@
   /* Footer */
 
   .footimg{
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
     margin-right: 7px;
     
   }
@@ -511,11 +556,9 @@
 
   .projrcth1{
     margin: 20px 0px 0px 0px;
-    color: black; 
     border: 2px solid black; 
     width: max-content; 
     padding: 1%; 
-    background-color: rgba(255, 255, 255, 0.938);
   }
 
   .sdiv{

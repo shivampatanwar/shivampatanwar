@@ -23,28 +23,33 @@
     <link rel="stylesheet" href="mobile.css">
     <link rel="stylesheet" href="tablet.css">
     <link rel="stylesheet" href="landscape.css">
+    <link rel="stylesheet" href="darkmodes.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
     <title>Portfolio</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
+    <header >
+        <nav >
+            <ul >
 
-               <div class="div1" style="color: black;">
+               <div class="div1" >
                     <p class="name">SHIVAM PATANWAR</p>
                 </div>
 
-               <div class="div2 d2" id="dv2">
-                    <li><i class="bi bi-brightness-high-fill bt2" id="toggleDark1" style="color: black;"></i></li>
+               <div class="div2 d2" id="dv2" >
+                    <li><i class="bi bi-brightness-high-fill bt2" id="toggleDark1" ></i></li>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="portfolio.html">Portfolio</a></li>
                     <li><a href="project.html">Project</a></li>
                     <li><a href="courses.html">Courses</a></li>
                     <li><a href="contact.html">Contact</a></li>
                </div>
+
+
             </ul>
 
             <div class="container">
@@ -52,9 +57,9 @@
                 <div class="search"></div>
             </div>
 
-            <span id="btt" class="bt" onclick="func()"><img class="grid" src="gd.svg" alt="img"></span>
+            <span id="btt" class="bt"  onclick="func()"><i class="bi bi-grid-3x3-gap-fill  grid"></i></span>
 
-            <i class="bi bi-brightness-high-fill bt1" id="toggleDark" style="color: black;"></i>
+            <i class="bi bi-brightness-high-fill bt1" id="toggleDark" ></i><script src="darksmodes.js"></script>
 
             <center>
                 <div class="div3 d3" id="dv3" >
@@ -79,7 +84,10 @@
                 
                </div>
             </center>
+
         </nav>
+
+       
         
     </header>
 

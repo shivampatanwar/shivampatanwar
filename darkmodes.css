@@ -1,0 +1,70 @@
+
+
+
+.darkMode {
+    background-color: black;
+    color: white;
+    
+
+    ul{
+        background-color: rgb(41, 39, 39);
+        
+    }
+
+    a, .name, .bt2, .bt1, .bt{
+        color: white;
+    }
+
+
+    .div31 a{
+        color: black;
+
+    }
+    .div3{
+        background-color: #bcc2c2;
+        display: none;
+
+    }
+
+    .projrcth1{
+        border: 2px solid white; 
+    }
+
+
+
+    .sdiv{
+        border: 1px solid white;
+        background-color: black;
+        color: white;
+        
+    }
+
+    .sdiv p{
+        color: white;
+        
+    }
+
+    .coursedivinner{
+        background-color: black;
+        border: 2px solid white;
+    }
+
+    .razorbt{
+        background-color: black;
+        border: 1px solid white;
+    }
+
+    .divc2{
+        background-color: black;
+        border:  2px solid white;
+      
+    }
+
+    input, textarea{
+        padding: 5px;
+        color: white;
+        background-color: black ;
+    }
+
+
+}

@@ -16,7 +16,7 @@
       width: 100%; 
       font-size: 20px;
   }
-
+ 
 
 
 
@@ -259,7 +259,29 @@ input, textarea{
 
 
 
+  /* index  Web Page */
 
+
+  .homediv1{
+    margin: 15% 0% 0px 8%;
+    width: 200px;
+    height: 200px; 
+  }
+
+  .homediv2{
+    margin: 10% 0% 0px 13%;
+    width: 50%;
+    padding: 15px;
+  }
+
+  
+  /*  */
+  .homeh12{
+    top: 206px;
+  }
+
+  
+  
 
 
 

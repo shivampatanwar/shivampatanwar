@@ -18,6 +18,7 @@ function showSlides() {
     setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
+
 let slideIndex1 = 0;
 showSlides1();
 function showSlides1() {
