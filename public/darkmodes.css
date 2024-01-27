@@ -67,4 +67,37 @@
     }
 
 
+    .slideshow{
+        border: 1px solid white;
+    }
+
+
+    .dot, .dot1, .dot2, .dot3{
+        background-color: #474646;
+    }
+    
+    .active {
+        background-color: white;
+    }
+
+
+    .arrow {
+        border: solid white;
+        border-width: 0 3px 3px 0;
+    }
+
+    
+    #rights, #lefts, #rights1, #lefts1 {
+        border: 1px solid white;
+    }
+
+    .diginotesinnerdiv, .oncourseinnerdiv{
+        border: 1px solid white;
+    }
+
+    .diginotespay, .oncoursepay{
+        background-color: black;
+        border: 1px solid white;
+    }
+
 }
