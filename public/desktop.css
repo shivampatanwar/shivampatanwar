@@ -420,73 +420,6 @@ main{ padding: 50px 0px 55px 0px; }
 
 }
 
-.last{
-    margin-right: -20px;
-  }
-
-
-
-  .arrow {
-    border: solid black;
-    border-width: 0 3px 3px 0;
-    display: inline-block;
-    padding: 3px;
-  }
-  
-  .right {
-    height: 10px;
-    width: 10px;
-    margin-right: 3px;
-    transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-  }
-  
-  .left {
-
-    height: 10px;
-    width: 10px;
-    margin-left: 3px;
-    transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
-  }
-
-
-
-  #rights {
-    position: absolute;
-    height: auto;
-    width: 14px ;
-    right: 32px;
-    top: 920px;
-    border: 1px solid black;
-    z-index: 3;
-  }
-  
-  #lefts {
-    position: absolute;
-    left: 27px;
-    top: 920px;
-    height: auto;
-    width: 14px ;
-    border: 1px solid black;
-    z-index: 3;
-    
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -573,6 +506,95 @@ main{ padding: 50px 0px 55px 0px; }
 
 
 /*  */
+
+
+
+
+
+
+
+
+
+.last{
+    margin-right: -10px;
+}
+
+
+
+
+
+/* Scroll Button index webpage */
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.right {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+
+#rights {
+    position: absolute;
+    height: auto;
+    width: 32px ;
+    right: 32px;
+    top: 920px;
+    border: 1px solid black;
+    z-index: 3;
+}
+
+.left {
+
+    height: 10px;
+    width: 10px;
+    margin-left: 3px;
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+#lefts {
+    position: absolute;
+    left: 27px;
+    top: 920px;
+    height: auto;
+    width: 14px ;
+    border: 1px solid black;
+    z-index: 3;
+    
+}
+
+
+
+
+
+#rights1 {
+position: absolute;
+height: auto;
+width: 14px ;
+right: 32px;
+top: 1330px;
+border: 1px solid black;
+z-index: 3;
+}
+
+#lefts1 {
+position: absolute;
+left: 27px;
+top: 1330px;
+height: auto;
+width: 14px ;
+border: 1px solid black;
+z-index: 3;
+
+}
 
 
 
