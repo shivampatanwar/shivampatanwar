@@ -16,8 +16,8 @@
             "@type": "WebSite",
             "name": "Shivam Patanwar",
             "alternateName": ["Shivam Patanwar Developer", "Shivam Patanwar WebSite Developer", "Shivam Patanwar App Developer"],
-            "logo": "https://firebasestorage.googleapis.com/v0/b/shivampatanwarapp.appspot.com/o/images.jpg?alt=media&token=bc6d67dd-499f-4d16-8e34-8b0c7e4ab1dc"
-            "url": "https://shivampatanwar.com"
+            "logo": "https://firebasestorage.googleapis.com/v0/b/shivampatanwarapp.appspot.com/o/images.jpg?alt=media&token=bc6d67dd-499f-4d16-8e34-8b0c7e4ab1dc",
+            "url": "https://shivampatanwar.com",
             "sameAs": [
                 "https://www.instagram.com/shivampatanwardeveloper",
                 "https://twitter.com/shivampatanwar",
@@ -26,7 +26,7 @@
                 "https://www.youtube.com/@shivampatanwarmotivation",
                 "https://www.youtube.com/@shivampatanwareducation",
                 "https://in.linkedin.com/in/shivampatanwar"
-            ]
+            ],
 
 
             "description": "Shivam Patanwar is a Professional Website, Android/Ios App Developer and Programming Trainer/Teacher of Html, Css, JavaScript, C, C++, Java, Python, SQL, GitHub, YouTube."
@@ -44,7 +44,7 @@
                     "@type": "ListItem",
                     "position": 1,
                     "name": "Home",
-                    "item": "https://shivampatanwar.com"
+                    "item": "https://shivampatanwar.com",
                     "text": "Home page of Shivam Patanwar website consist Digital notes, Online Courses, Github Repository and Youtube Playlist."
                 },
 
@@ -52,7 +52,7 @@
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Portfolio",
-                    "item": "https://shivampatanwar.com/portfolio"
+                    "item": "https://shivampatanwar.com/portfolio",
                     "text": "Portfolio page consists about Shivam Patanwar Education, Skill, Projects and Strength."
                 },
 
@@ -60,7 +60,7 @@
                     "@type": "ListItem",
                     "position": 3,
                     "name": "Projects",
-                    "item": "https://shivampatanwar.com/projects"
+                    "item": "https://shivampatanwar.com/projects",
                     "text": "I have developed website and android application. Shivam Patanwar, Yash Graphics, Programming Education and Hindu Prayer app in hindi"
                 },
 
@@ -68,7 +68,7 @@
                     "@type": "ListItem",
                     "position": 4,
                     "name": "Online Courses",
-                    "item": "https://shivampatanwar.com/courses"
+                    "item": "https://shivampatanwar.com/courses",
                     "text": "We are provide Online course for HTML, CSS, JavaScript, C, C++, JAVA, PYTHON, SQL"
                 },
 
@@ -76,7 +76,7 @@
                     "@type": "ListItem",
                     "position": 5,
                     "name": "Contact Us",
-                    "item": "https://shivampatanwar.com/contact"
+                    "item": "https://shivampatanwar.com/contact",
                     "text": "Contact us throught Contact Us web page consists smtp.js Email and  Team Details."
                 },
 
@@ -84,7 +84,7 @@
                     "@type": "ListItem",
                     "position": 6,
                     "name": "Hindu Prayer App in Hindi - Project",
-                    "item": "https://play.google.com/store/apps/details?id=com.god.prayer"
+                    "item": "https://play.google.com/store/apps/details?id=com.god.prayer",
                     "text": "Hindu Prayer App in Hindi is developed for providing hindu gods prayers in hindi."
                 },
 
@@ -92,7 +92,7 @@
                     "@type": "ListItem",
                     "position": 7,
                     "name": "Yash Graphics - Project",
-                    "item": "https://yashgraphics.com"
+                    "item": "https://yashgraphics.com",
                     "text": "Yash Graphics is a Graphic designing Website and owned by Yashwant Sahu."
                 },
 
@@ -100,7 +100,7 @@
                     "@type": "ListItem",
                     "position": 8,
                     "name": "Programming Education - Project",
-                    "item": "https://programmingeducation.org"
+                    "item": "https://programmingeducation.org",
                     "text": "Programming Education is developed for providing programming contents."
                 }
             ]
@@ -190,10 +190,6 @@
     ]   
     </script>
 
-
-    <script type="application/ld+json">
-       
-        </script>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-10856882984"></script>
@@ -311,7 +307,7 @@
         
     </header>
 
-    
+
 
     <main id="body">
 
@@ -479,8 +475,7 @@
         </section>
 
         
-        
-
+    
         
     </main>
 
@@ -558,14 +553,47 @@
         </div>
 
     </footer>
+
     
-    
-    
+    <div>
+        <!-- Messenger Chat plugin Code -->
+        <div id="fb-root"></div>
+
+        <!-- Your Chat plugin code -->
+        <div id="fb-customer-chat" class="fb-customerchat">
+        </div>
+
+    </div>
+   
 </body>
 
 
 <script src="scrip.js"></script>
 <script src="textanimation.js"></script>
 <script src="sliderr.js"></script>
+
+<script>
+    var chatbox = document.getElementById('fb-customer-chat');
+    chatbox.setAttribute("page_id", "108615108474195");
+    chatbox.setAttribute("attribution", "biz_inbox");
+</script>
+
+  <!-- Your SDK code -->
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v19.0'
+      });
+    };
+
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 
 </html>
