@@ -10,7 +10,13 @@
 
 - All of my projects are available at **https://shivampatanwar.com**
 
-- 💬 Ask me about **Html, Css, Javascript, React, Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot, C, C++, Python, SQL, Mongodb, WordPress**
+- 💬 Ask me about
+- **Html, Css, Javascript, React**
+- **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
+- **C, C++**
+- **Python, dJango**
+- **SQL, Mongodb**
+- **WordPress**
 
 
 - 📫 How to reach me  **contact@shivampatanwar.com**,&nbsp;  **shivampatanwar@gmail.com**
