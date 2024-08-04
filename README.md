@@ -16,9 +16,9 @@
 - 📫 How to reach me  **contact@shivampatanwar.com**,&nbsp;  **shivampatanwar@gmail.com**
 
 <h3 align="left">YouTube Channel</h3>
-<a href="https://youtube.com/@shivampatanwardeveloper" target="blank">**Shivam Patanwar Developer**</a>\
-<a href="https://youtube.com/@shivampatanwarmotivation" target="blank">**Shivam Patanwar Motivation**</a>\
-<a href="https://youtube.com/@shivampatanwareducation" target="blank">**Shivam Patanwar Education**</a>\
+<a href="https://youtube.com/@shivampatanwardeveloper" target="blank">**Shivam Patanwar Developer\**</a>
+<a href="https://youtube.com/@shivampatanwarmotivation" target="blank">**Shivam Patanwar Motivation\**</a>
+<a href="https://youtube.com/@shivampatanwareducation" target="blank">**Shivam Patanwar Education\**</a>
 
 
 
