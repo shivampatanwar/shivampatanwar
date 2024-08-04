@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivampatanwar" target="blank"><img src="https://img.shields.io/twitter/follow/shivampatanwar?logo=twitter&style=for-the-badge" alt="shivampatanwar" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack**
+- 🌱 I’m currently learning **MERN Full Stack and JAVA Full Stack**
 
 - 👨‍💻 All of my projects are available at [https: shivampatanwar.com](https: shivampatanwar.com)
 
-- 💬 Ask me about **Html, Css, Javascript, React, Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
+- 💬 Ask me about **Html, Css, Javascript, React, Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot, C, C++, Python**
 
 - 📫 How to reach me **contact@shivampatanwar.com**
 
