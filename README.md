@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack and JAVA Full Stack**
 
-- 👨‍💻 All of my projects are available at [https: shivampatanwar.com](https: shivampatanwar.com)
+- 👨‍💻 All of my projects are available at (https: shivampatanwar.com)
 
 - 💬 Ask me about **Html, Css, Javascript, React, Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot, C, C++, Python**
 
