@@ -19,7 +19,9 @@
     - **WordPress**
 
 
-- 📫 How to reach me  **contact@shivampatanwar.com**,&nbsp;  **shivampatanwar@gmail.com**
+- 📫 How to reach me
+    - **contact@shivampatanwar.com**
+    - **shivampatanwar@gmail.com**
 
 <h3 align="left">YouTube Channel</h3>
 <a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
