@@ -28,6 +28,7 @@
     
  
 ### Contact 
+- [Email](mailto:contact@shivampatanwar.com)
 - **contact@shivampatanwar.com**
 - **shivampatanwar@gmail.com**
 - **https://shivampatanwar.com**
