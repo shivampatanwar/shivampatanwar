@@ -27,10 +27,11 @@
     - **C, C++**
     
  
-- Contact Us [**Email**](mailto:contact@shivampatanwar.com) [**Email**](mailto:shivampatanwar@gmail.com) [**Website**](https://shivampatanwar.com)
+- Contact Us &nbsp; [**contact@shivampatanwar.com**](mailto:contact@shivampatanwar.com)
 
-- Contact Us [**Email**](mailto:shivampatanwar@gmail.com)
-- Website  [**https://shivampatanwar.com**](https://shivampatanwar.com)
+- Contact Us &nbsp; [**shivampatanwar@gmail.com**](mailto:shivampatanwar@gmail.com)
+- 
+- Website &nbsp; [**https://shivampatanwar.com**](https://shivampatanwar.com)
 
 
 - Facebook Page [**Developer**](https://fb.com/@shivampatanwardeveloper)  [**Motivation**](https://fb.com/@shivampatanwarmotivation)  [**Education**](https://fb.com/@shivampatanwareducation)
