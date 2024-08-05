@@ -30,14 +30,14 @@
 - Contact Us &nbsp; [**contact@shivampatanwar.com**](mailto:contact@shivampatanwar.com)
 
 - Contact Us &nbsp; [**shivampatanwar@gmail.com**](mailto:shivampatanwar@gmail.com)
-- 
+
 - Website &nbsp; [**https://shivampatanwar.com**](https://shivampatanwar.com)
 
 
-- Facebook Page [**Developer**](https://fb.com/@shivampatanwardeveloper)  [**Motivation**](https://fb.com/@shivampatanwarmotivation)  [**Education**](https://fb.com/@shivampatanwareducation)
+- Facebook Page &nbsp; [**Developer**](https://fb.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://fb.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://fb.com/@shivampatanwareducation)
 
 
-- YouTube Channel [**Developer**](https://youtube.com/@shivampatanwardeveloper) [**Motivation**](https://youtube.com/@shivampatanwarmotivation)  [**Education**](https://youtube.com/@shivampatanwareducation)
+- YouTube Channel [**Developer**](https://youtube.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://youtube.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://youtube.com/@shivampatanwareducation)
 
 <h3 align="left">Connect</h3>
 <p align="left">
