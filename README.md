@@ -15,12 +15,12 @@
 - All of my projects are available at **https://shivampatanwar.com**
 
 - 💬 Ask me about
-    - **Html, Css, Javascript, React**
     - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
-    - **C, C++**
+    - **Html, Css, Javascript, React**
     - **Python, DJango**
     - **SQL, Mongodb**
     - **WordPress**
+    - **C, C++**
 
 
 - 📫 How to reach me
