@@ -14,7 +14,7 @@
     - **Html, Css, Javascript, React**
     - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
     - **C, C++**
-    - **Python, dJango**
+    - **Python, DJango**
     - **SQL, Mongodb**
     - **WordPress**
 
