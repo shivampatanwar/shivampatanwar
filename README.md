@@ -28,21 +28,20 @@
     
  
 ### Contact 
-- [Email](mailto:contact@shivampatanwar.com)
-- **contact@shivampatanwar.com**
-- **shivampatanwar@gmail.com**
-- **https://shivampatanwar.com**
+- [**Email**](mailto:contact@shivampatanwar.com)
+- [**Email**](mailto:shivampatanwar@gmail.com)
+- [**Website**](https://shivampatanwar.com)
 
 ### Facebook Page 
- - [Developer](https://fb.com/@shivampatanwardeveloper)
- - [Motivation](https://fb.com/@shivampatanwarmotivation)
- - [Education](https://fb.com/@shivampatanwareducation)
+ - [**Developer**](https://fb.com/@shivampatanwardeveloper)
+ - [**Motivation**](https://fb.com/@shivampatanwarmotivation)
+ - [**Education**](https://fb.com/@shivampatanwareducation)
 
 
 ### YouTube Channel
- - [Developer](https://youtube.com/@shivampatanwardeveloper)
- - [Motivation](https://youtube.com/@shivampatanwarmotivation)
- - [Education](https://youtube.com/@shivampatanwareducation)
+ - [**Developer**](https://youtube.com/@shivampatanwardeveloper)
+ - [**Motivation**](https://youtube.com/@shivampatanwarmotivation)
+ - [**Education**](https://youtube.com/@shivampatanwareducation)
 
 <h3 align="left">Connect</h3>
 <p align="left">
