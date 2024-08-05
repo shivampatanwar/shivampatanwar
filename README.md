@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=shivampatanwar&label=Profile%20views&color=0e75b6&style=flat" alt="shivampatanwar" />
 
 
-<p align="left"> <a href="https://twitter.com/shivampatanwar" target="blank"><img src="https://img.shields.io/twitter/follow/shivampatanwar?logo=twitter&style=for-the-badge" alt="shivampatanwar" /></a> </p>
+<a href="https://twitter.com/shivampatanwar" target="blank"><img src="https://img.shields.io/twitter/follow/shivampatanwar?logo=twitter&style=for-the-badge" alt="shivampatanwar"/></a> 
 
 - 🌱 I’m currently learning
     - **MERN Full Stack**
