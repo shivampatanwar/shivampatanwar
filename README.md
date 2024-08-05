@@ -18,8 +18,6 @@
     * **JAVA Full Stack**
     * **Android Application**
 
-- All of my projects are available at **https://shivampatanwar.com**
-
 - 💬 Ask me about
     - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
     - **Html, Css, Javascript, React**
