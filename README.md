@@ -34,9 +34,8 @@
 
 ### Facebook Page 
  - [Developer](https://fb.com/@shivampatanwardeveloper)
- - <a href="https://fb.com/@shivampatanwardeveloper" target="blank">Developer</a><br/>
- - <a href="https://fb.com/@shivampatanwarmotivation" target="blank">Motivation</a><br/>
- - <a href="https://fb.com/@shivampatanwareducation" target="blank">Education</a>
+ - [Motivation](https://fb.com/@shivampatanwarmotivation)
+ - [Education](https://fb.com/@shivampatanwareducation)
 
 
 ### YouTube Channel
