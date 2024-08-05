@@ -24,10 +24,11 @@
     - **shivampatanwar@gmail.com**
 
 <h3 align="left">YouTube Channel</h3>
+<p align="left">
   &nbsp;<a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
   &nbsp;<a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
   &nbsp;<a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a><br/>
-
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
