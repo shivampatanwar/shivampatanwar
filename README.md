@@ -7,10 +7,10 @@
 <a href="https://twitter.com/shivampatanwar" target="blank"><img src="https://img.shields.io/twitter/follow/shivampatanwar?logo=twitter&style=for-the-badge" alt="shivampatanwar"/></a> 
 
 - 🌱 I’m currently learning
-    - **MERN Full Stack**
-    - **JAVA Full Stack**
-    - **Android Application**
-    - **Python Full Stack**
+    * **MERN Full Stack**
+    * **JAVA Full Stack**
+    * **Android Application**
+    * **Python Full Stack**
 
 - All of my projects are available at **https://shivampatanwar.com**
 
