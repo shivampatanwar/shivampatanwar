@@ -37,7 +37,7 @@
 - Facebook Page &nbsp; [**Developer**](https://fb.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://fb.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://fb.com/@shivampatanwareducation)
 
 
-- YouTube Channel [**Developer**](https://youtube.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://youtube.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://youtube.com/@shivampatanwareducation)
+- YouTube Channel &nbsp; [**Developer**](https://youtube.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://youtube.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://youtube.com/@shivampatanwareducation)
 
 <h3 align="left">Connect</h3>
 <p align="left">
