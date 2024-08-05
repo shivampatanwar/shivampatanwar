@@ -28,14 +28,14 @@
 - **shivampatanwar@gmail.com**
 - **https://shivampatanwar.com**
 
-### YouTube Channe
+### Facebook Page 
  - <a href="https://fb.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
  - <a href="https://fb.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
  - <a href="https://fb.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a>
 
 
 ### YouTube Channel
- - [https://youtube.com/@shivampatanwardeveloper](https://fb.com/shivampatanwardeveloper)" target="blank">Shivam Pata
+ - <a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
  - <a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
  - <a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a>
 
