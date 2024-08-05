@@ -28,10 +28,10 @@
     - **shivampatanwar@gmail.com**
 
 <h3 align="left">YouTube Channel</h3>
-<p align="left" style="padding-left: 30px">
-  &nbsp;<a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
-  &nbsp;<a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
-  &nbsp;<a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a><br/>
+<p align="left" style="padding-left:30px">
+  <a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
+  <a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
+  <a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a><br/>
 </p>
 
 
