@@ -12,7 +12,7 @@
     * **Android Application**
     * **Python Full Stack**
  
-  - 🌱 I’m currently working with
+- 🌱 I’m currently working with
     * **MERN Full Stack**
     * **JAVA Full Stack**
     * **Android Application**
