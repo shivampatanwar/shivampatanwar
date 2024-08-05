@@ -26,6 +26,7 @@
 ### Contact 
 - **contact@shivampatanwar.com**
 - **shivampatanwar@gmail.com**
+- **https://shivampatanwar.com**
 
 ### YouTube Channel
 <p align="left" style="padding-left:30px">
