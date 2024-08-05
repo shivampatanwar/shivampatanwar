@@ -29,10 +29,7 @@
  
 - Contact Us [**Email**](mailto:contact@shivampatanwar.com) [**Email**](mailto:shivampatanwar@gmail.com) [**Website**](https://shivampatanwar.com)
 
-- Facebook Page 
-    - [**Developer**](https://fb.com/@shivampatanwardeveloper)
-    - [**Motivation**](https://fb.com/@shivampatanwarmotivation)
-    - [**Education**](https://fb.com/@shivampatanwareducation)
+- Facebook Page [**Developer**](https://fb.com/@shivampatanwardeveloper)[**Motivation**](https://fb.com/@shivampatanwarmotivation) [**Education**](https://fb.com/@shivampatanwareducation)
 
 
 - YouTube Channel
