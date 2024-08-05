@@ -27,10 +27,7 @@
     - **C, C++**
     
  
-- Contact Us
-    - [**Email**](mailto:contact@shivampatanwar.com)
-    - [**Email**](mailto:shivampatanwar@gmail.com)
-    - [**Website**](https://shivampatanwar.com)
+- Contact Us [**Email**](mailto:contact@shivampatanwar.com) [**Email**](mailto:shivampatanwar@gmail.com) [**Website**](https://shivampatanwar.com)
 
 - Facebook Page 
     - [**Developer**](https://fb.com/@shivampatanwardeveloper)
