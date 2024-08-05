@@ -11,6 +11,11 @@
     * **JAVA Full Stack**
     * **Android Application**
     * **Python Full Stack**
+ 
+  - 🌱 I’m currently working with
+    * **MERN Full Stack**
+    * **JAVA Full Stack**
+    * **Android Application**
 
 - All of my projects are available at **https://shivampatanwar.com**
 
