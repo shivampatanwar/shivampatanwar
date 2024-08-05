@@ -21,10 +21,10 @@
     - **SQL, Mongodb**
     - **WordPress**
     - **C, C++**
-
-
-- 📫 How to reach me
-    - **contact@shivampatanwar.com**
+    
+ 
+### Contact 
+- **contact@shivampatanwar.com**
     - **shivampatanwar@gmail.com**
 
 ### YouTube Channel
