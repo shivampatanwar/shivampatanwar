@@ -27,7 +27,7 @@
     - **contact@shivampatanwar.com**
     - **shivampatanwar@gmail.com**
 
-<h3 align="left">YouTube Channel</h3>
+### YouTube Channel
 <p align="left" style="padding-left:30px">
   <a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
   <a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
