@@ -30,8 +30,8 @@
 
 ### YouTube Channel
  - <a href="https://youtube.com/@shivampatanwardeveloper" target="blank">Shivam Patanwar Developer</a><br/>
-  <a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
-  <a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a><br/
+ - <a href="https://youtube.com/@shivampatanwarmotivation" target="blank">Shivam Patanwar Motivation</a><br/>
+ - <a href="https://youtube.com/@shivampatanwareducation" target="blank">Shivam Patanwar Education</a>
 
 
 <h3 align="left">Connect with me:</h3>
