@@ -30,12 +30,12 @@
 
 
 # Skills 
-    - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
-    - **Html, Css, Javascript, React**
-    - **Python, DJango**
-    - **SQL, Mongodb**
-    - **WordPress**
-    - **C, C++**
+- **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
+- **Html, Css, Javascript, React**
+- **Python, DJango**
+- **SQL, Mongodb**
+- **WordPress**
+- **C, C++**
 
 <h3 align="left">Connect</h3>
 <p align="left">
