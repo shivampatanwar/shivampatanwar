@@ -27,9 +27,8 @@
     - **C, C++**
     
  
-- Contact Us &nbsp; [**contact@shivampatanwar.com**](mailto:contact@shivampatanwar.com)
-
-- Contact Us &nbsp; [**shivampatanwar@gmail.com**](mailto:shivampatanwar@gmail.com)
+- Contact Us Email &nbsp; [Personal](mailto:shivampatanwar@gmail.com)
+  [Professional](mailto:contact@shivampatanwar.com)
 
 - Website &nbsp; [**https://shivampatanwar.com**](https://shivampatanwar.com)
 
