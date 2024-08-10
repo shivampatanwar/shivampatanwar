@@ -11,14 +11,12 @@
     * **JAVA Full Stack**
     * **Android Application**
     * **Python Full Stack**
-
  
-- 🌱 I’m currently working with
-    * **MERN Full Stack**
-    * **JAVA Full Stack**
-    * **Android Application**
-
 - 💬 Ask me about
+    - **JDBC, Hibernate, Servlet, Spring**
+    - **HTML, CSS, Javascript**
+
+# Skills 
     - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
     - **Html, Css, Javascript, React**
     - **Python, DJango**
