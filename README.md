@@ -15,13 +15,7 @@
     - **JDBC, Hibernate, Servlet, Spring**
     - **HTML, CSS, Javascript**
 
-# Skills 
-    - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
-    - **Html, Css, Javascript, React**
-    - **Python, DJango**
-    - **SQL, Mongodb**
-    - **WordPress**
-    - **C, C++**
+
     
  
 - Contact Us Email &nbsp; [**Personal**](mailto:shivampatanwar@gmail.com) &nbsp; [**Professional**](mailto:contact@shivampatanwar.com)
@@ -33,6 +27,15 @@
 
 
 - YouTube Channel &nbsp; [**Developer**](https://youtube.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://youtube.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://youtube.com/@shivampatanwareducation)
+
+
+# Skills 
+    - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
+    - **Html, Css, Javascript, React**
+    - **Python, DJango**
+    - **SQL, Mongodb**
+    - **WordPress**
+    - **C, C++**
 
 <h3 align="left">Connect</h3>
 <p align="left">
