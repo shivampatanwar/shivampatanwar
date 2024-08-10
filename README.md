@@ -28,7 +28,7 @@
 - YouTube Channel &nbsp; [**Developer**](https://youtube.com/@shivampatanwardeveloper) &nbsp; [**Motivation**](https://youtube.com/@shivampatanwarmotivation) &nbsp; [**Education**](https://youtube.com/@shivampatanwareducation)
 
 
-## Skills 
+### Skills 
 - **Core Java, Collection, JDBC, Hibernate, Servlet, Spring Boot**
 - **Html, Css, Javascript, React**
 - **Python, DJango**
