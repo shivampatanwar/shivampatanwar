@@ -7,9 +7,8 @@
 <a href="https://twitter.com/shivampatanwar" target="blank"><img src="https://img.shields.io/twitter/follow/shivampatanwar?logo=twitter&style=for-the-badge" alt="shivampatanwar"/></a> 
 
 - 🌱 I’m currently learning
-    * **MERN Full Stack**
-    * **JAVA Full Stack**
-    * **Android Application**
+    * **MERN Full Stack - ongoing**
+    * **JAVA Full Stack - completed**
  
 - 💬 Ask me about
     - **JDBC, Hibernate, Servlet, Spring**
