@@ -10,7 +10,6 @@
     * **MERN Full Stack**
     * **JAVA Full Stack**
     * **Android Application**
-    * **Python Full Stack**
  
 - 💬 Ask me about
     - **JDBC, Hibernate, Servlet, Spring**
